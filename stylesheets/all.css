@@ -6043,21 +6043,26 @@ button.close {
   -webkit-box-shadow: 1px 1px 3px #F0F0F0;
           box-shadow: 1px 1px 3px #F0F0F0;
   position: relative; }
+
 .readme .download {
   position: absolute;
   right: 20px;
   bottom: 20px; }
+
 .readme pre {
   margin-top: 30px !important;
   margin-bottom: 30px !important; }
+
 .readme h1.readme-header, .readme h2.readme-header, .readme h3.readme-header {
   color: #7D7979;
   font-weight: bold;
   line-height: 25px;
   margin: 10px 0;
   text-transform: uppercase; }
+
 .readme h1.readme-header {
   font-size: 17px; }
+
 .readme h2.readme-header {
   font-size: 17px;
   letter-spacing: 1px;
@@ -6080,6 +6085,7 @@ button.close {
     font-weight: bolder; }
   .readme h2.readme-header a:hover {
     text-decoration: none; }
+
 .readme h3.readme-header {
   font-size: 13px; }
 
